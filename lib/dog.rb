@@ -2,9 +2,9 @@
   
   attr_reader :name :breed
   
-  def initialize(name)
+  def initialize(name, breed)
     @name = name
-    @breed
+    @breed = breed
   end
 
 end
