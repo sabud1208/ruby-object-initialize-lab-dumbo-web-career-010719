@@ -4,6 +4,7 @@
   
   def initialize(name)
     @name = name
+    @breed
   end
 
 end
